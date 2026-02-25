@@ -17,13 +17,21 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently an Associate Professor with the [School of Information Science and Technology](https://sist.swjtu.edu.cn), [Southwest Jiaotong University](https://www.swjtu.edu.cn), Chengdu, China. I received my Ph.D. degree in 2022 from the [School of Mathematical Sciences](https://www.math.uestc.edu.cn/), [University of Electronic Science and Technology of China](https://www.uestc.edu.cn), Chengdu, China, under the supervision of Prof. [Ting-Zhu Huang](https://www.math.uestc.edu.cn/info/1183/5808.htm). 
+I am a [Professor](http://www.math.uestc.edu.cn/info/1081/2025.htm) in the School of Mathematical Science at [University of Electronic Science and Technology of China (UESTC)](https://www.uestc.edu.cn/).
+
+In 2012, I received my Ph.D. in Applied Mathematics from UESTC, advised by [Prof. Ting-Zhu Huang](http://www.math.uestc.edu.cn/info/1081/2041.htm).
+
+From 2013 to 2014, I worked with [Prof. Michael Ng](https://hkumath.hku.hk/~mng/) as a post-doc at Hong Kong Baptist University.
+
+From 2016 to 2017, I worked with [Prof. Jose M. Bioucas Dias](http://www.lx.it.pt/~bioucas/) as a visiting scholar at Instituto Superior Técnico.
+
+My research interests are artificial intelligence and scientific computing.
 
 My current interests include high-dimensional image processing, machine learning and its theoretical foundations, tensor modeling and computing. 
 
-📢 <span style="color:blue">**My team admits 1\~2 PhD students and 7\~10 master’s students each year. In addition, we offer research training opportunities for undergraduate students who are interested in gaining hands-on research experience. Self-motivated students are welcome to join my team. Please feel free to contact me**.</span>
+📢 <span style="color:blue">**Self-motivated students are welcome to join my research group. Please feel free to contact me.**.</span>
 
-📧 E-mail: <zhengyubang@163.com>; <yubangzheng@swjtu.edu.cn> &emsp; 🎓 Google Scholar: [citations 1500+](https://scholar.google.com/citations?hl=en&user=3KH22NkAAAAJ)&emsp; 🏫[学校主页](https://faculty.swjtu.edu.cn/zhengyubang/zh_CN/index.htm)
+📧 E-mail: <xlzhao122003@163.com>&emsp; 🎓 Google Scholar: [citations 9000+](https://scholar.google.com/citations?user=88Zs8pAAAAAJ&hl=en)&emsp; 
 
 # 🔔 News
 
@@ -39,20 +47,13 @@ My current interests include high-dimensional image processing, machine learning
 </div>
 </div>
 -->
-- *2025.09*: &nbsp; Two papers are accepted by _**IEEE Transactions on Geoscience and Remote Sensing**_. 
-- *2025.09*: &nbsp; One paper is accepted by _**IEEE Transactions on Neural Networks and Learning Systems**_. 
-- *2025.08*: &nbsp; One paper is accepted by _**IEEE Transactions on Geoscience and Remote Sensing**_. 
-- *2025.07*: &nbsp; One paper is accepted by _**IEEE Transactions on Circuits and Systems for Video Technology**_. 
-- *2025.06*: &nbsp; One paper is accepted by _**Neural Networks**_. 
-- *2025.06*: &nbsp; One paper is accepted by _**IEEE Transactions on Big Data**_. 
-- *2025.05*: &nbsp; One paper is accepted by _**Pattern Recognition**_. 
-- *2025.04*: &nbsp; One paper is accepted by _**SIAM Journal on Scientific Computing**_.
-- *2025.02*: &nbsp; One paper is accepted by _**Signal Processing**_. 
-- *2024.12*: &nbsp; One paper is accepted by _**IEEE Transactions on Neural Networks and Learning Systems**_. 
-- *2024.10*: &nbsp; One paper is accepted by _**IEEE Transactions on Geoscience and Remote Sensing**_. 
+- *2026.02*: &nbsp; One paper is accepted by _**CVPR**_. 
+- *2025.11*: &nbsp; One paper is accepted by _**Inverse Problems**_. 
+- *2025.06*: &nbsp; One paper is accepted by _**SIAM Journal on Imaging Sciences**_. 
 
 
-# 🧰 Projects
+
+# 🧰 Tensor Jungles
 
 -  [Tensor Decomposition](https://github.com/zhaoxile/reproducible-tensor-completion-state-of-the-art)
 
