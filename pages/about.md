@@ -160,27 +160,36 @@ My current interests include high-dimensional image processing, machine learning
   Hao Zhang, Ting-Zhu Huang, **Xi-Le Zhao**, Shu-Qin Zhang, Jin-Yu Xie, Tai-Xiang Jiang, Michael K. Ng<br>
    **_ACM Trans. Knowl. Discov. Data._**
 
-- The Generalized Tensor Decomposition with Heterogeneous Tensor Product for Third-Order Tensors
-<br>
+- The Generalized Tensor Decomposition with Heterogeneous Tensor Product for Third-Order Tensors<br>
   Yun-Yang Liu, **Xi-Le Zhao**, Meng Ding, Jianjun Wang , Tai-Xiang Jiang , Ting-Zhu Huang<br>
    **_J. Sci. Comput._**
+
+- A Fast Algorithm for Rank-(L, M, N) Block Term Decomposition of Multi-Dimensional Data<br>
+  Hao Zhang, Ting-Zhu Huang, **Xi-Le Zhao**, Mao-Lin Che<br>
+   **_J. Sci. Comput._**
+
+- Forecasting Urban Traffic States with Sparse Data Using Hankel Temporal Matrix Factorization<br>
+  Xin-Yu Chen, **Xi-Le Zhao**, Chuan Chen<br>
+   **_INFORMS Journal on Computing_**
+
 ## 2023
 
-- Li-Yuan Li, Ting-Zhu Huang\*, **Yu-Bang Zheng\***, Wen-Jie Zheng, Jie Lin, Guo-Cheng Wu, Xi-Le Zhao, \"Thick Cloud Removal for Multitemporal Remote Sensing Images: When Tensor Ring Decomposition Meets Gradient Domain Fidelity\", _IEEE Transactions on Geoscience and Remote Sensing_, vol. 61, art no. 5512414, pp. 1-14, 2023. [[Website]](https://ieeexplore.ieee.org/document/10125571/)
+- A Learnable Group-Tube Transform Induced Tensor Nuclear Norm and Its Application for Tensor Completion<br>
+  Ben-Zheng Li, **Xi-Le Zhao**, Xiong-Jun Zhang, Teng-Yu Ji, Xin-Yu Chen, Michael K. Ng<br>
+   **_SIAM Journal on Imaging Sciences_**
 
-- Yu-Le Wei, **Yu-Bang Zheng\***, Rui Wang, Heng-Chao Li, \"Quaternion Convolutional Neural Network with EMAP Representation for Multisource Remote Sensing Data Classification\", _IEEE Geoscience and Remote Sensing Letters_, vol. 20, art no. 5508805, pp. 1-5, 2023. [[Website]](https://ieeexplore.ieee.org/abstract/document/10236572)
-
-- Wen-Jie Zheng, Xi-Le Zhao\*, **Yu-Bang Zheng**, Jie Lin, Lina Zhuang, Ting-Zhu Huang, \"Spatial-Spectral-Temporal Connective Tensor Network Decomposition for Thick Cloud Removal\", _ISPRS Journal of Photogrammetry and Remote Sensing_, vol. 199, pp. 182-194, 2023. [[Website]](https://www.sciencedirect.com/science/article/abs/pii/S0924271623000953) [[Code]](https://github.com/zhaoxile/SSTC_CR)
+- Spatial-Spectral-Temporal Connective Tensor Network Decomposition for Thick Cloud Removal<br>
+  Wen-Jie Zheng, **Xi-Le Zhao**, Yu-Bang Zheng, Jie Lin, Lina Zhuang, Ting-Zhu Huang<br>
+   **_ISPRS Journal of Photogrammetry and Remote Sensing_** [[MATLAB Code]](https://github.com/zhaoxile/SSTC_CR)
   
-- Yun-Yang Liu, Xi-Le Zhao\*, Guang-Jin Song, **Yu-Bang Zheng**, Michael K. Ng, Ting-Zhu Huang, \"Fully-Connected Tensor Network Decomposition for Robust Tensor Completion Problem\", _Inverse Problems and Imaging_, 2023. [[Website]](https://www.aimsciences.org/article/doi/10.3934/ipi.2023030)
+- Dictionary Learning with Low-Rank Coding Coefficients for Tensor Completion<br>
+  Tai-Xiang Jiang, **Xi-Le Zhao**, Hao Zhang, Michael K. Ng<br>
+   **_IEEE Trans. Neural Netw. Learn. Syst._**
 
-- Hao Zhang, Ting-Zhu Huang\*, Xi-Le Zhao\*, Wei He, Jae Kyu Choi, **Yu-Bang Zheng**, \"Hyperspectral Image Denoising: Reconciling Sparse and Low-Tensor-Ring-Rank Priors in the Transformed Domain\", _IEEE Transactions on Geoscience and Remote Sensing_, vol. 61, art no. 5502313, pp. 1-13, 2023. [[Website]](https://ieeexplore.ieee.org/abstract/document/10019288)
-
-- Peng-Ling Wu, Xi-Le Zhao\*, Meng Ding, **Yu-Bang Zheng**, Lu-Bin Cui, Ting-Zhu Huang, \"Tensor Ring Decomposition-Based Model with Interpretable Gradient Factors Regularization for Tensor Completion\", _Knowledge-Based Systems_, vol. 259, pp. 110094, 2023. [[Website]](https://www.sciencedirect.com/science/article/abs/pii/S095070512201190X)
-
-- Peng-Ling Wu, Meng Ding\*, **Yu-Bang Zheng**, \"Spatiotemporal Traffic Data Imputation by Synergizing Low Tensor Ring Rank and Nonlocal Subspace Regularization\", _IET Intelligent Transport Systems_, vol. 17, pp. 1908–1923, 2023. [[Website]](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/itr2.12383)
-
-
+- H2TF for Hyperspectral Image Denoising: Where Hierarchical Nonlinear Transform Meets Hierarchical Matrix Factorization<br>
+  Jia-Yi Li, Jin-Yu Xie, Yi-Si Luo, **Xi-Le Zhao**, Jian-Li Wang<br>
+   **_IEEE Geosci. Remote. Sens. Lett._**
+  
 ## 2022
 
 - **Yu-Bang Zheng**, Ting-Zhu Huang\*, Xi-Le Zhao\*, Qibin Zhao, \"Tensor Completion via Fully-Connected Tensor Network Decomposition with Regularized Factors\", _Journal of Scientific Computing_, vol. 92, art no. 8, pp. 1-35, 2022. [[Website]](https://link.springer.com/article/10.1007/s10915-022-01841-8#citeas) [[Code]](https://yubangzheng.github.io/codes/code_FCTNFR.zip) (<span style="color:red">ESI Highly Cited Paper</span>)
