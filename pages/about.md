@@ -59,25 +59,29 @@ My research interests are artificial intelligence and scientific computing.
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/YuBangZheng/TSVD_ToolBox"><img src="/images/tnntoolbox.png" width="250"></a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/YisiLuo/LRTFR"><img src="/images/ConTensortoolbox.png" width="250"></a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/haozhangSWJTU/Irregular-Tensor-Toolbox"><img src="/images/irregulartools.png" width="250"></a>
-<ul style="list-style-type: disc; padding-left: 20px;">
-  <li>
+
+<ul style="list-style-type: disc; padding-left: 20px; list-style-position: outside;">
+  <li style="margin-bottom: 15px;">
     <a href="https://github.com/zhaoxile/reproducible-tensor-completion-state-of-the-art">Tensor Decomposition</a>
-    <div style="display: flex; flex-wrap: wrap; gap: 20px; margin-top: 10px;">
-      <a href="https://github.com/YuBangZheng/TenNet_ToolBox">
-        <img src="/images/tennettoolbox.png" width="250" alt="TenNet ToolBox">
+    <!-- 关键修改1：把 gap 从 20px 调大（如 40px），增加水平间距；添加 row-gap 控制垂直换行间距 -->
+    <div style="display: flex; align-items: flex-start; gap: 100px; row-gap: 25px; margin-top: 10px; flex-wrap: wrap;">
+      <!-- 关键修改2：给 <a> 加 text-decoration: none，彻底消除下划线 -->
+      <a href="https://github.com/YuBangZheng/TenNet_ToolBox" style="text-decoration: none;">
+        <img src="/images/tennettoolbox.png" width="250" style="display: block; border: none;">
       </a>
-      <a href="https://github.com/YuBangZheng/TSVD_ToolBox">
-        <img src="/images/tnnttoolbox.png" width="250" alt="TSVD ToolBox">
+      <a href="https://github.com/YuBangZheng/TSVD_ToolBox" style="text-decoration: none;">
+        <img src="/images/tnntoolbox.png" width="250" style="display: block; border: none;">
       </a>
-      <a href="https://github.com/YisiLuo/LRTFR">
-        <img src="/images/ConTensortoolbox.png" width="250" alt="ConTensor ToolBox">
+      <a href="https://github.com/YisiLuo/LRTFR" style="text-decoration: none;">
+        <img src="/images/ConTensortoolbox.png" width="250" style="display: block; border: none;">
       </a>
-      <a href="https://github.com/haozhangSWJTU/Irregular-Tensor-Toolbox">
-        <img src="/images/irregulartools.png" width="250" alt="Irregular Tensor ToolBox">
+      <a href="https://github.com/haozhangSWJTU/Irregular-Tensor-Toolbox" style="text-decoration: none;">
+        <img src="/images/irregulartools.png" width="250" style="display: block; border: none;">
       </a>
     </div>
   </li>
 </ul>
+
 # 📄 Publications 
 
 ## Surveys
