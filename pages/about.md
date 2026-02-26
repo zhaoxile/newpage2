@@ -370,7 +370,7 @@ My research interests are artificial intelligence and scientific computing.
 # 📖 Teaching
 
 ## 数值分析(研究生课程)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/YuBangZheng/TenNet_ToolBox"><img src="/images/nab.png" width="250"></a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/YuBangZheng/TenNet_ToolBox"><img src="newpage2/images/nab.png" width="250"></a>
 [[Chap. 1]](https://zhaoxile.github.io/paper/1.pdf)  [[Chap. 2]](https://zhaoxile.github.io/paper/2.pdf)
 
 ## 数字图像处理(本科挑战性学习课程)
