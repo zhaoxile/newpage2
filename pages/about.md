@@ -346,7 +346,7 @@ My research interests are artificial intelligence and scientific computing.
    **_IEEE Trans. Geosci. Remote Sens._** [[MATLAB Code]](https://github.com/zhaoxile/Deblurring-and-sparse-unmixing-for-hyperspectral-images)
   
 # 🌱 Group
-- On Going PHD<br>
+- On Going PhD<br>
   2023: Wen-Jie Zheng<br>
   2024: Qin Jiang, Sheng Liu<br>
   2025: Ruo-Yang Su, Ting-Wei Zhou<br>
@@ -354,11 +354,18 @@ My research interests are artificial intelligence and scientific computing.
 - On Going Master<br>
   2024: Jun-Xian Kuang, Yi-Ming Zeng<br>
   2025: Yang Zhou, Yi-Wei Zhang<br>
-- Completed PHD<br>
+- Completed PhD<br>
   2021: Yun-Yang Liu (Anhui University)<br>
   2022: Ben-Zheng Li (Central China Normal University)<br>
 - Completed Master<br>
-  2021: Cheng-Yao Lyu<br>
+  2016: Ye-Tao Wang, Jing-Hua Yang<br>
+  2017: Lin Guo, Wen-Hao Xu<br>
+  2018: Xin Nie, Hao Zhang<br>
+  2019: Yun-Yang Liu, Ben-Zheng Li<br> 
+  2020: Ke-Xiang Cao, Huan Li<br>
+  2021: Cheng-Yao Lyu, Wen-Jie Zheng<br>
+  2022: Qin Jiang, Sheng Liu<br>
+  2023: Ruo-Yang Su, Ting-Wei Zhou<br>
   
 # 📖 Teaching
 
