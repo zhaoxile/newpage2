@@ -208,7 +208,7 @@ My current interests include high-dimensional image processing, machine learning
   Cheng-Yao Lyu, **Xi-Le Zhao**, Ben-Zheng Li, Hao Zhang, Ting-Zhu Huang<br>
    **_J. Sci. Comput._**
 
-- Tensor Completion via Complementary Global, Local, and Nonlocal Priors  <span style="color: blue;">(ESI Highly Cited Paper)</span><br>
+- Tensor Completion via Complementary Global, Local, and Nonlocal Priors  <span style="color:blue">(ESI Highly Cited Paper)</span><br>
   Cheng-Yao Lyu, **Xi-Le Zhao**, Ben-Zheng Li, Hao Zhang, Ting-Zhu Huang<br>
    **_J. Sci. Comput._**
   
