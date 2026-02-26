@@ -9,6 +9,8 @@
 title                    : "Xi-Le Zhao  (赵熙乐) | UESTC"
 description              : "<br>"
 repository               : "zhaoxile/newpage2"
+url                      : "https://zhaoxile.github.io"  # 新增：你的 GitHub Pages 根域名
+baseurl                  : "/newpage2"                   # 新增：你的子仓库名
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -30,7 +32,7 @@ author:
   googlescholar    : "https://scholar.google.com/citations?user=88Zs8pAAAAAJ&hl=en"
   email            : 
   researchgate     : "https://www.researchgate.net/profile/Xi-Le-Zhao-2"
-  url              : 
+  #url              : 
   bitbucket        :
   codepen          :
   dribbble         :
