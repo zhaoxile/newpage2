@@ -366,77 +366,52 @@ My research interests are artificial intelligence and scientific computing.
 - National Natural Science Foundation of China (国家自然科学基金面上项目, NSFC 61876203), 2019-2022
 - National Natural Science Foundation of China (国家自然科学基金青年项目, NSFC 61402082), 2015-2017
 
-# 🏆 Awards and Honors
-
--  2025年度教育部自然科学奖二等奖, 排名第三, 中华人民共和国教育部, 2025
--  2024年度四川省自然科学奖三等奖, 排名第三, 四川省人民政府, 2024
--  2021年度川渝科技学术大会优秀论文一等奖, 排名第一, 四川省科协和重庆市科协, 2021 [[news]](http://www.sckjw.com.cn/info/f10734c52b4b45a285d3fd4e4735d5a9)
--  四川省优秀毕业生, 电子科技大学, 2023
-
--  
 # 🌐 Academic Activities
 
-## 🎤 Reports
+## 🎤 Jury member for PhD thesis defense (Skoltech, supervised by Professor Andrzej Cichocki)
 
-- *2021.02*: \"Fully-Connected Tensor Network Decomposition and Its Application to Higher-Order Tensor Completion\", _AAAI 2021_, **[Online](https://virtual.2021.aaai.org/paper_AAAI-4990.html)** [[Slide]](https://yubangzheng.github.io/papers/Slide_FCTN_decomposition.pdf)
+## ⌨ Journal Reviewer
 
-- *2019.07*: \"Hyperspectral Image Denoising via Convex Low-Fibered-Rank Regularization\", _IGARSS 2019_, **Yokohama, Japan** (Oral) [[Slide]](https://yubangzheng.github.io/papers/Oral_IGARSS2019_ybz.pdf)
+-CVPR, ICCV, ECCV, KDD, IJCAI, ACM MM
+-IEEE Transactions on Pattern Analysis and Machine Intelligence
+-SIAM Journal on Imaging Sciences
+-SIAM Journal on Scientific Computing
+-SIAM Journal on Matrix Analysis and Applications Computing
+-SIAM Journal on Mathematics of Data Science
+-Advances in Computational Mathematics
+-Journal of Scientific Computing
+-Journal of Mathematical Imaging and Vision
+-Inverse Problems and Imaging
+-ISPRS Journal of Photogrammetry and Remote Sensing
+-IEEE Transactions on Image Processing
+-IEEE Transactions on Geoscience and Remote Sensing
+-IEEE Journal of Selected Topics in Signal Processing
+-IEEE Transactions on Signal Processing
+-IEEE Transactions on Circuits and Systems for Video Technology
+-IEEE Transactions on Cybernetics
+-IEEE Transactions on Neural Networks and Learning Systems
+-IEEE Transactions on Multimedia
+-ACM Transactions on Intelligent Systems and Technology
+-Neural Networks
+-Information Fusion
+-Signal Processing
+-Journal of Computational and Applied Mathematics
+-Applied Mathematical Modelling
+-Applied Mathematics and Computation
+-Applied Mathematics Letters
+-Journal of the Franklin Institute
+-Pattern Recognition
+-Information Science
+-Knowledge-Based Systems
+ 
+ # 🏆 Awards
 
-## ⌨ Editor and Reviewer
-
--  Optik (Special Issues--Recent Trends of Math and Deep Modeling in Multi-Dimensional Image Recovery: Theory, Models, Algorithms, and Applications), _Guest Editor_
--  IEEE Transactions on Pattern Analysis and Machine Intelligence (IEEE TPAMI), _Reviewer_
--  International Journal of Computer Vision (IJCV), _Reviewer_
--  IEEETransactions on Knowledge and Data Engineering (IEEE TKDE), _Reviewer_
--  IEEE Transactions on Image Processing (IEEE TIP), _Reviewer_
--  IEEE Transactions on Neural Networks and Learning Systems (IEEE TNNLS), _Reviewer_
--  IEEE Transactions on Geoscience and Remote Sensing (IEEE TGRS), _Reviewer_
--  IEEE Transactions on Computational Imaging (IEEE TCI), _Reviewer_
--  IEEE Transactions on Circuits and Systems for Video Technology (IEEE TCSVT), _Reviewer_
--  IEEE Transactions on Network Science and Engineering (IEEE TNSE), _Reviewer_
--  IEEE Transactions on Big Data (IEEE TBD), _Reviewer_
--  IEEE Transactions on Artificial Intelligence (IEEE TAI), _Reviewer_
--  IEEE Journal of Selected Topics in Signal Processing (IEEE J-STSP), _Reviewer_
--  Remote Sensing of Environment, _Reviewer_
--  ISPRS Journal of Photogrammetry and Remote Sensing, _Reviewer_
--  SCIENCE CHINA Information Sciences, _Reviewer_
--  International Journal of Applied Earth Observation and Geoinformation, _Reviewer_
--  Mathematical Reviews, _Reviewer_
--  Pattern Recognition, _Reviewer_
--  Signal Processing, _Reviewer_
--  Machine Learning, _Reviewer_
--  Knowledge-Based Systems, _Reviewer_
--  IEEE Signal Processing Letters, _Reviewer_
--  IEEE Geoscience and Remote Sensing Letters, _Reviewer_
--  NeurIPS 2025, AAAI 2026, _Reviewer_
--  ... ...
-
-<!--
--  Journal of Visual Communication and Image Representation, _Reviewer_
--  Applied Mathematical Modeling, _Reviewer_
--  Applied Mathematics and Computation, _Reviewer_
--  Neural Processing Letters, _Reviewer_
--  Neurocomputing, _Reviewer_
--  Information Systems, _Reviewer_
--  Digital Signal Processing, _Reviewer_
--  Statistical Papers, _Reviewer_
--  Journal of Computational Science, _Reviewer_
--  ACML 2021, 2022, _Reviewer_
- -->
-## 🤝 Co-authors
-
--  [Prof. Ting-Zhu Huang (黄廷祝教授)](http://www.math.uestc.edu.cn/info/1081/2041.htm)
--  [Prof. Heng-Chao Li (李恒超教授)](https://faculty.swjtu.edu.cn/lihengchao/zh_CN/index.htm)
--  [Prof. Xi-Le Zhao (赵熙乐教授)](https://zhaoxile.github.io/)
--  [Prof. Qing Zhu (朱庆教授)](https://faculty.swjtu.edu.cn/zhuqing/zh_CN/index.htm)
--  [Prof. Qibin Zhao](https://qibinzhao.github.io)
--  ... ...
-  
-<!-- 
--  [Prof. Tai-Xiang Jiang (蒋太翔)](https://taixiangjiang.github.io)
--  [Dr. Teng-Yu Ji (冀腾宇)](https://teacher.nwpu.edu.cn/tengyuji.html)
--  [Dr. Yong Chen (陈勇)](https://chenyong1993.github.io/yongchen.github.io/)
--  [Dr. Wen-Jie Zheng (郑文洁)](https://wjz1355.github.io)
--->
+-Stanford University World's Top 2% Scientists (2021, 2022 and 2023)
+-The First Prize of Science and Technology Progress Award of Sichuan Province (2013 and 2015)
+-The Second Prize in the Contest of Outstanding Young Essay awarded by Chinese Computational Mathematics Society
+-The backup candidate for the Academic and Technological Leader Program of Sichuan Province
+-The First Prize of Outstanding Essay for Sichuan and Chongqing Science and Technology Conference Award of Sichuan and Chongqing Association for Science and Technology (2020 and 2021)
+-The Second Prize of Applied Mathematics Award of Sichuan Mathematics Society
+-The Hundred-Talent Program of University of Electronic Science and Technology of China
 
 <script type="text/javascript" src="//rf.revolvermaps.com/0/0/8.js?i=5walv8lpuh8&amp;m=0&amp;c=ff0000&amp;cr1=ffffff&amp;f=arial&amp;l=33" async="async"></script>
