@@ -82,7 +82,7 @@ My research interests are artificial intelligence and scientific computing.
   </li>
 </ul>
 
-# 📄 Publications 
+# 📄 Selected Publications 
 
 ## Surveys
 
