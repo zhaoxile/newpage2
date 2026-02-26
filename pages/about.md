@@ -61,7 +61,7 @@ My research interests are artificial intelligence and scientific computing.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/haozhangSWJTU/Irregular-Tensor-Toolbox"><img src="/images/irregulartools.png" width="250"></a>
 
-# 📄 Selected Publications 
+# 📄 Selected Publications {: #"-selected publications"}
 
 ## Surveys
 
@@ -427,7 +427,7 @@ My research interests are artificial intelligence and scientific computing.
 - Information Science
 - Knowledge-Based Systems
   
- # 🏆 Awards
+ # 🏆 Awards {: #"-awards"}
 
 - Stanford University World's Top 2% Scientists (2021, 2022 and 2023)
 - The First Prize of Science and Technology Progress Award of Sichuan Province (2013 and 2015)
