@@ -360,16 +360,19 @@ My research interests are artificial intelligence and scientific computing.
 - Completed Master<br>
   2021: Cheng-Yao Lyu<br>
   
-# 📚 Teaching
--数值分析(研究生课程):
--数字图像处理(本科挑战性学习课程):<br>
-数字图像处理课程成果展示<br>
-李晓彤 (北京大学博士, “挑战杯”四川省大学生课外学术科技作品竞赛二等奖、Neurocomputing)<br>   
-罗倚斯 (西安交通大学博士, IEEE Trans. Image Process.、 CVPR) 成电新闻<br>   
-苗雨春 (武汉大学博士, IEEE Trans. Comput. Imaging、 IEEE Trans. Geosci. Remote Sens.) 成电新闻<br>   
-唐晓乐 (西安交通大学博士, CVPR) 成电新闻<br>   
-庄俊豪 (清华深圳研究院, ACM MM) 成电新闻<br>   
-李佳艺 (科大在读本科, ECCV)<br>  
+# 📖 Teaching
+
+## 数值分析(研究生课程)
+
+## 数字图像处理(本科挑战性学习课程)
+
+### 数字图像处理课程成果展示
+- 李晓彤 (北京大学博士, “挑战杯”四川省大学生课外学术科技作品竞赛二等奖、Neurocomputing)   
+- 罗倚斯 (西安交通大学博士, IEEE Trans. Image Process.、 CVPR) 成电新闻  
+- 苗雨春 (武汉大学博士, IEEE Trans. Comput. Imaging、 IEEE Trans. Geosci. Remote Sens.) 成电新闻  
+- 唐晓乐 (西安交通大学博士, CVPR) 成电新闻 
+- 庄俊豪 (清华深圳研究院, ACM MM) 成电新闻  
+- 李佳艺 (科大在读本科, ECCV)
 
 # 💾 Fundings
 
@@ -379,50 +382,50 @@ My research interests are artificial intelligence and scientific computing.
 
 # 🌐 Academic Activities
 
-## 🎤 Jury member for PhD thesis defense (Skoltech, supervised by Professor Andrzej Cichocki)
+## Jury member for PhD thesis defense (Skoltech, supervised by Professor Andrzej Cichocki)
 
-## ⌨ Journal Reviewer
+## Journal Reviewer
 
--CVPR, ICCV, ECCV, KDD, IJCAI, ACM MM
--IEEE Transactions on Pattern Analysis and Machine Intelligence
--SIAM Journal on Imaging Sciences
--SIAM Journal on Scientific Computing
--SIAM Journal on Matrix Analysis and Applications Computing
--SIAM Journal on Mathematics of Data Science
--Advances in Computational Mathematics
--Journal of Scientific Computing
--Journal of Mathematical Imaging and Vision
--Inverse Problems and Imaging
--ISPRS Journal of Photogrammetry and Remote Sensing
--IEEE Transactions on Image Processing
--IEEE Transactions on Geoscience and Remote Sensing
--IEEE Journal of Selected Topics in Signal Processing
--IEEE Transactions on Signal Processing
--IEEE Transactions on Circuits and Systems for Video Technology
--IEEE Transactions on Cybernetics
--IEEE Transactions on Neural Networks and Learning Systems
--IEEE Transactions on Multimedia
--ACM Transactions on Intelligent Systems and Technology
--Neural Networks
--Information Fusion
--Signal Processing
--Journal of Computational and Applied Mathematics
--Applied Mathematical Modelling
--Applied Mathematics and Computation
--Applied Mathematics Letters
--Journal of the Franklin Institute
--Pattern Recognition
--Information Science
--Knowledge-Based Systems
+- CVPR, ICCV, ECCV, KDD, IJCAI, ACM MM
+- IEEE Transactions on Pattern Analysis and Machine Intelligence
+- SIAM Journal on Imaging Sciences
+- SIAM Journal on Scientific Computing
+- SIAM Journal on Matrix Analysis and Applications Computing
+- SIAM Journal on Mathematics of Data Science
+- Advances in Computational Mathematics
+- Journal of Scientific Computing
+- Journal of Mathematical Imaging and Vision
+- Inverse Problems and Imaging
+- ISPRS Journal of Photogrammetry and Remote Sensing
+- IEEE Transactions on Image Processing
+- IEEE Transactions on Geoscience and Remote Sensing
+- IEEE Journal of Selected Topics in Signal Processing
+- IEEE Transactions on Signal Processing
+- IEEE Transactions on Circuits and Systems for Video Technology
+- IEEE Transactions on Cybernetics
+- IEEE Transactions on Neural Networks and Learning Systems
+- IEEE Transactions on Multimedia
+- ACM Transactions on Intelligent Systems and Technology
+- Neural Networks
+- Information Fusion
+- Signal Processing
+- Journal of Computational and Applied Mathematics
+- Applied Mathematical Modelling
+- Applied Mathematics and Computation
+- Applied Mathematics Letters
+- Journal of the Franklin Institute
+- Pattern Recognition
+- Information Science
+- Knowledge-Based Systems
  
  # 🏆 Awards
 
--Stanford University World's Top 2% Scientists (2021, 2022 and 2023)
--The First Prize of Science and Technology Progress Award of Sichuan Province (2013 and 2015)
--The Second Prize in the Contest of Outstanding Young Essay awarded by Chinese Computational Mathematics Society
--The backup candidate for the Academic and Technological Leader Program of Sichuan Province
--The First Prize of Outstanding Essay for Sichuan and Chongqing Science and Technology Conference Award of Sichuan and Chongqing Association for Science and Technology (2020 and 2021)
--The Second Prize of Applied Mathematics Award of Sichuan Mathematics Society
--The Hundred-Talent Program of University of Electronic Science and Technology of China
+- Stanford University World's Top 2% Scientists (2021, 2022 and 2023)
+- The First Prize of Science and Technology Progress Award of Sichuan Province (2013 and 2015)
+- The Second Prize in the Contest of Outstanding Young Essay awarded by Chinese Computational Mathematics Society
+- The backup candidate for the Academic and Technological Leader Program of Sichuan Province
+- The First Prize of Outstanding Essay for Sichuan and Chongqing Science and Technology Conference Award of Sichuan and Chongqing Association for Science and Technology (2020 and 2021)
+- The Second Prize of Applied Mathematics Award of Sichuan Mathematics Society
+- The Hundred-Talent Program of University of Electronic Science and Technology of China
 
 <script type="text/javascript" src="//rf.revolvermaps.com/0/0/8.js?i=5walv8lpuh8&amp;m=0&amp;c=ff0000&amp;cr1=ffffff&amp;f=arial&amp;l=33" async="async"></script>
