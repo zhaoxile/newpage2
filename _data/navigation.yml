@@ -1,25 +1,25 @@
 # main links links
 main:
   - title: "About Me"
-    url: "{{ site.baseurl }}/#about-me"
+    url: "/newpage2/#about-me"
 
   - title: "News"
-    url: "{{ site.baseurl }}/#-news"
+    url: "/newpage2/#-news"
 
   - title: "Selected Publications"
-    url: "{{ site.baseurl }}/#-selected publications"
+    url: "/newpage2/#-selected publications"
     
   - title: "Group"
-    url: "{{ site.baseurl }}/#-group"
+    url: "/newpage2/#-group"
     
   - title: "Teaching"
-    url: "{{ site.baseurl }}/#-teaching"
+    url: "/newpage2/#-teaching"
     
   - title: "Fundings"
-    url: "{{ site.baseurl }}/#-fundings"
+    url: "/newpage2/#-fundings"
 
   - title: "Academic Activities"
-    url: "{{ site.baseurl }}/#-academic-activities"
+    url: "/newpage2/#-academic-activities"
 
   - title: "Awards"
-    url: "{{ site.baseurl }}/#-awards"
+    url: "/newpage2/#-awards"
