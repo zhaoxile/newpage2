@@ -358,7 +358,7 @@ My research interests are artificial intelligence and scientific computing.
   2021: Yun-Yang Liu (Anhui University)<br>
   2022: Ben-Zheng Li (Central China Normal University)<br>
 - Completed Master<br>
-  2021: Cheng-Yao Lyu Liu<br>
+  2021: Cheng-Yao Lyu<br>
 
 # 💾 Fundings
 
