@@ -426,7 +426,7 @@ My research interests are artificial intelligence and scientific computing.
 - Pattern Recognition
 - Information Science
 - Knowledge-Based Systems
-- 
+  
  # 🏆 Awards
 
 - Stanford University World's Top 2% Scientists (2021, 2022 and 2023)
