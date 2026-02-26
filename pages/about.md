@@ -209,22 +209,50 @@ My current interests include high-dimensional image processing, machine learning
    **_J. Sci. Comput._**
 
 - Tensor Completion via Complementary Global, Local, and Nonlocal Priors  <span style="color:blue">(ESI Highly Cited Paper)</span><br>
-  Cheng-Yao Lyu, **Xi-Le Zhao**, Ben-Zheng Li, Hao Zhang, Ting-Zhu Huang<br>
-   **_J. Sci. Comput._**
+  **Xi-Le Zhao**, Jing-Hua Yang, Tian-Hui Ma, Tai-Xiang Jiang, Michael K. Ng, Ting-Zhu Huang<br>
+   **_IEEE Trans. Image Process._** [[MATLAB Code]](https://github.com/Jinghua-Yang/Code_GLON)
   
+- Self-Supervised Nonlinear Transform-Based Tensor Nuclear Norm for Multi-Dimensional Image Recovery<br>
+  Yi-Si Luo, **Xi-Le Zhao**, Tai-Xiang Jiang, Yi Chang, Michael K. Ng, Chao Li<br>
+   **_IEEE Trans. Image Process._**
 
+- Multiscale Feature Tensor Train Rank Minimization for Multidimensional Image Recovery<br>
+  Hao Zhang, **Xi-Le Zhao**, Tai-Xiang Jiang, Michael K. Ng, Ting-Zhu Huang<br>
+   **_IEEE Trans. Cybernetics_**
+
+- Hyperspectral Denoising Using Unsupervised Disentangled Spatiospectral Deep Priors<br>
+  Yu-Chun Miao, **Xi-Le Zhao**, Xiao Fu, Jian-Li Wang, Yu-Bang Zheng<br>
+   **_IEEE Trans. Geosci. Remote Sens._**
+
+- Robust Thick Cloud Removal for Multi-Temporal Remote Sensing Images Using Coupled Tensor Factorization<br>
+  Jie Lin, Ting-Zhu Huang, Xi-Le Zhao, Yong Chen, Qiang Zhang, Qiangqiang Yuan<br>
+   **_IEEE Trans. Geosci. Remote Sens._**
+  
 ## 2021
 
-- **Yu-Bang Zheng**, Ting-Zhu Huang\*, Xi-Le Zhao\*, Qibin Zhao, Tai-Xiang Jiang, \"Fully-Connected Tensor Network Decomposition and Its Application to Higher-Order Tensor Completion\", in _Proceedings of the AAAI Conference on Artificial Intelligence (AAAI 2021)_, vol. 35, no. 12, pp. 11071-11078, 2021. [[Website]](https://ojs.aaai.org/index.php/AAAI/article/view/17321) [[Supplementary Material]](https://yubangzheng.github.io/papers/Supplementary_Material_FCTN_decomposition.pdf) [[Slide]](https://yubangzheng.github.io/papers/Slide_FCTN_decomposition.pdf) [[Poster]](https://yubangzheng.github.io/papers/Poster_FCTN_decomposition.pdf) [[Code]](https://yubangzheng.github.io/codes/code_FCTN_Decomposition.zip)
+- Tensor Completion via Collaborative Sparse and Low-Rank Transforms<br>
+  Ben-Zheng Li, **Xi-Le Zhao**, Jian-Li Wang, Yong Chen, Tai-Xiang Jiang, Jun Liu<br>
+   **_IEEE Trans. Comput. Imaging_**
 
-- Xin Li, Ting-Zhu Huang\*, Xi-Le Zhao\*, Teng-Yu Ji, **Yu-Bang Zheng**, Liang-Jian Deng, \"Adaptive Total Variation and Second-Order Total Variation-Based Model for Low-Rank Tensor Completion\", _Numerical Algorithms_, vol. 86, pp. 1-24, 2021. [[Website]](https://link.springer.com/article/10.1007/s11075-020-00876-y)
+- Rain Streaks Removal for Single Image via Kernel-Guided Convolutional Neural Network<br>
+  Ye-Tao Wang, **Xi-Le Zhao**, Tai-Xiang Jiang, Liang-Jian Deng, Yi Chang, Ting-Zhu Huang<br>
+   **_IEEE Trans. Neural Netw. Learn. Syst._** [[TensorFlow Code]](https://github.com/zhaoxile/KGCNN)
 
-- Lin Guo, Xi-Le Zhao\*, Xian-Ming Gu, Yong-Liang Zhao, **Yu-Bang Zheng**, Ting-Zhu Huang, \"Three-Dimensional Fractional Total Variation Regularized Tensor Optimized Model for Image Deblurring\", _Applied Mathematics and Computation_, vol. 404, pp. 126224, 2021. [[Website]](https://www.sciencedirect.com/science/article/abs/pii/S0096300321003143)
+- Multi-Dimensional Visual Data Completion via Low-Rank Tensor Representation Under Coupled Transform<br>
+  Jian-Li Wang, Ting-Zhu Huang, **Xi-Le Zhao**, Tai-Xiang Jiang, Michael K. Ng<br>
+   **_IEEE Trans. Image Process._**
 
-- Jie Lin, Ting-Zhu Huang\*, Xi-Le Zhao, Tian-Hui Ma, Tai-Xiang Jiang, **Yu-Bang Zheng**, \"A Novel Non-Convex Low-Rank Tensor Approximation Model for Hyperspectral Image Restoration\", _Applied Mathematics and Computation_, vol. 408, pp. 126342, 2021. [[Website]](https://www.sciencedirect.com/science/article/abs/pii/S0096300321004318)
+- Fully-Connected Tensor Network Decomposition and Its Application to Higher-Order Tensor Completion<br>
+  Yu-Bang Zheng, Ting-Zhu Huang, **Xi-Le Zhao**, Qibin Zhao, Tai-Xiang Jiang<br>
+   **_AAAI Conference on Artificial Intelligence (AAAI)_** [[MATLAB Code]](https://yubangzheng.github.io/codes/code_FCTN_Decomposition.zip)
 
-- Yisi Luo, Xi-Le Zhao\*, Tai-Xiang Jiang, **Yu-Bang Zheng**, Yi Chang, \"Hyperspectral Mixed Noise Removal Via Spatial-Spectral Constrained Unsupervised Deep Image Prior\", _IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing_, vol. 14, pp. 9435-9449, 2021. [[Website]](https://ieeexplore.ieee.org/abstract/document/9534671)
+- A Tensor Subspace Representation-Based Method for Hyperspectral Image Denoising<br>
+  Jie Lin, Ting-Zhu Huang, **Xi-Le Zhao**, Tai-Xiang Jiang, Lina Zhuang<br>
+   **_IEEE Trans. Geosci. Remote Sens._**
 
+- Hyperspectral Super-Resolution via Interpretable Block-Term Tensor Modeling<br>
+  Meng Ding, Xiao Fu, Ting-Zhu Huang, Jun Wang, **Xi-Le Zhao**<br>
+   **_IEEE Journal of Selected Topics in Signal Processing_**
 
 ## 2020
 
