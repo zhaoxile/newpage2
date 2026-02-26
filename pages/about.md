@@ -428,7 +428,7 @@ My research interests are artificial intelligence and scientific computing.
 - Knowledge-Based Systems
   
  # 🏆 Awards
-
+ 
 - Stanford University World's Top 2% Scientists (2021, 2022 and 2023)
 - The First Prize of Science and Technology Progress Award of Sichuan Province (2013 and 2015)
 - The Second Prize in the Contest of Outstanding Young Essay awarded by Chinese Computational Mathematics Society
