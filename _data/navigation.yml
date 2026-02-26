@@ -6,20 +6,23 @@ main:
   - title: "News"
     url: "/#-news"
 
-  - title: "Projects"
-    url: "/#-projects" 
-
-  - title: "Publications"
-    url: "/#-publications"
+  - title: "Selected Publications"
+    url: "/#-selected publications"
 
   - title: "Educations"
     url: "/#-educations"
-
+    
+  - title: "Group"
+    url: "/#-group"
+    
+  - title: "Teaching"
+    url: "/#-teaching"
+    
   - title: "Fundings"
     url: "/#-fundings"
-    
-  - title: "Awards and Honors"
-    url: "/#-awards-and-honors"
 
   - title: "Academic Activities"
     url: "/#-academic-activities"
+
+  - title: "Awards"
+    url: "/#-awards"
