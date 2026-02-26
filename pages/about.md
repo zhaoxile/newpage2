@@ -1,4 +1,4 @@
----
+<img width="299" height="58" alt="image" src="https://github.com/user-attachments/assets/83dab900-4fc8-4342-90c4-2bb5a513b3e9" />---
 permalink: /
 title: ""
 excerpt: ""
@@ -344,23 +344,27 @@ My research interests are artificial intelligence and scientific computing.
 - Deblurring and Sparse Unmixing for Hyperspectral Images</span><br>
   **Xi-Le Zhao**, Fan Wang, Ting-Zhu Huang, Michael K. Ng, Robert J. Plemmons<br>
    **_IEEE Trans. Geosci. Remote Sens._** [[MATLAB Code]](https://github.com/zhaoxile/Deblurring-and-sparse-unmixing-for-hyperspectral-images)
-    
-# 📖 Educations
-
-- *2021.03-2022.12*: Tensor Learning Team, RIKEN Center for Advanced Intelligence Project (AIP); Student trainee in Computer Science <br>
-   Supervisor: [Prof. Qibin Zhao](https://qibinzhao.github.io)
-- *2019.09-2022.12*: University of Electronic Science and Technology of China (UESTC); Ph. D. student in Applied Mathematics <br>
-  Supervisor: [Prof. Ting-Zhu Huang (黄廷祝教授)](http://www.math.uestc.edu.cn/info/1081/2041.htm)
-- *2017.09-2019.07*: University of Electronic Science and Technology of China (UESTC); Master student in Applied Mathematics <br>
-  Supervisor: [Prof. Ting-Zhu Huang (黄廷祝教授)](http://www.math.uestc.edu.cn/info/1081/2041.htm)
-- *2013.09-2017.07*: Anhui University of Finance and Economics (AUFE); Bachelor student in Information and Computing Science
+  
+# 🌱 Group
+- On Going PHD<br>
+  2023: Wen-Jie Zheng<br>
+  2024: Qin Jiang, Sheng Liu<br>
+  2025: Ruo-Yang Su, Ting-Wei Zhou<br>
+  2026: Tao Yang<br>
+- On Going Master<br>
+  2024: Jun-Xian Kuang, Yi-Ming Zeng<br>
+  2025: Yang Zhou, Yi-Wei Zhang<br>
+- Completed PHD<br>
+  2021: Yun-Yang Liu (Anhui University)<br>
+  2022: Ben-Zheng Li (Central China Normal University)<br>
+- Completed Master<br>
+  2021: Cheng-Yao Lyu Liu<br>
 
 # 💾 Fundings
 
-- 国家自然科学基金青年项目, 主持, 2024.01-2026.12
-- 四川省自然科学基金青年项目，主持，2024.01-2025.12
-- 中国博士后科学基金特别资助项目，主持，2025.08-2026.07
-- 中央高校基本业务项目，主持，2024.01-2025.12
+- National Natural Science Foundation of China (国家自然科学基金面上项目, NSFC 12371456), 2024-2027
+- National Natural Science Foundation of China (国家自然科学基金面上项目, NSFC 61876203), 2019-2022
+- National Natural Science Foundation of China (国家自然科学基金青年项目, NSFC 61402082), 2015-2017
 
 # 🏆 Awards and Honors
 
