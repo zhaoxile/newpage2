@@ -192,15 +192,26 @@ My current interests include high-dimensional image processing, machine learning
   
 ## 2022
 
-- **Yu-Bang Zheng**, Ting-Zhu Huang\*, Xi-Le Zhao\*, Qibin Zhao, \"Tensor Completion via Fully-Connected Tensor Network Decomposition with Regularized Factors\", _Journal of Scientific Computing_, vol. 92, art no. 8, pp. 1-35, 2022. [[Website]](https://link.springer.com/article/10.1007/s10915-022-01841-8#citeas) [[Code]](https://yubangzheng.github.io/codes/code_FCTNFR.zip) (<span style="color:red">ESI Highly Cited Paper</span>)
+- HLRTF: Hierarchical Low-Rank Tensor Factorization for Inverse Problems in Multi-Dimensional Imaging<br>
+  Yi-Si Luo, **Xi-Le Zhao**, De-Yu Meng, Tai-Xiang Jiang<br>
+   **_CVPR_** [[Pytorch Code]](https://github.com/YisiLuo/HLRTF)
 
-- Wen-Jie Zheng, Xi-Le Zhao\*, **Yu-Bang Zheng\***, Zhi-Feng Pang, \"Nonlocal Patch-Based Fully-Connected Tensor Network Decomposition for Multispectral Image Inpainting\", _IEEE Geoscience and Remote Sensing Letters_, vol. 19, art no. 8025105, pp. 1-5, 2022. [[Website]](https://ieeexplore.ieee.org/document/9598921) [[Code]](https://yubangzheng.github.io/codes/code_NLFCTN.zip)
+- UConNet: Unsupervised Controllable Network for Image and Video Deraining<br>
+  Jun-Hao Zhuang, Yisi Luo, **Xi-Le Zhao**, Tai-Xiang Jiang, Bichuan Guo<br>
+   **_ACM International Conference on Multimedia_**
 
-- Yun-Yang Liu, Xi-Le Zhao\*, **Yu-Bang Zheng**, Tian-Hui Ma, Hongyan Zhang, \"Hyperspectral Image Restoration by Tensor Fibered Rank Constrained Optimization and Plug-and-Play Regularization\", _IEEE Transactions on Geoscience and Remote Sensing_, vol. 60, art no. 5500717, pp. 1-17, 2022. [[Website]](https://ieeexplore.ieee.org/abstract/document/9314228) [[Code]](https://github.com/zhaoxile/TGRS_FRCTR_PnP) (<span style="color:red">ESI Highly Cited Paper</span>)
+- Nonlinear Transform Based Tensor Nuclear Norm for Low-Rank Tensor Completion<br>
+  Ben-Zheng Li, **Xi-Le Zhao**, Teng-Yu Ji, Xiong-Jun Zhang, Ting-Zhu Huang<br>
+   **_J. Sci. Comput._** [[MATLAB Code]](https://github.com/zhaoxile/Trans-TNN-Toolbox)
 
-- Yu-Chun Miao, Xi-Le Zhao\*, Xiao Fu\*, Jian-Li Wang, **Yu-Bang Zheng**, \"Hyperspectral Denoising Using Unsupervised Disentangled Spatiospectral Deep Priors\", _IEEE Transactions on Geoscience and Remote Sensing_, vol. 60, art no. 5513916, pp. 1-16, 2022. [[Website]](https://ieeexplore.ieee.org/abstract/document/9524362)
+- Multi-Dimensional Image Recovery via Fully-Connected Tensor Network Decomposition Under the Learnable Transforms<br>
+  Cheng-Yao Lyu, **Xi-Le Zhao**, Ben-Zheng Li, Hao Zhang, Ting-Zhu Huang<br>
+   **_J. Sci. Comput._**
 
-- Wei-Hao Wu, Ting-Zhu Huang\*, Xi-Le Zhao\*, Jian-Li Wang, **Yu-Bang Zheng**, \"Hyperspectral Image Denoising via Tensor Low-Rank Prior and Unsupervised Deep Spatial-Spectral Prior\", _IEEE Transactions on Geoscience and Remote Sensing_, vol. 60, art no. 5545514, pp. 1-14, 2022. [[Website]](https://ieeexplore.ieee.org/abstract/document/9992168)
+- Tensor Completion via Complementary Global, Local, and Nonlocal Priors  <span style="color: blue;">(ESI Highly Cited Paper)</span><br>
+  Cheng-Yao Lyu, **Xi-Le Zhao**, Ben-Zheng Li, Hao Zhang, Ting-Zhu Huang<br>
+   **_J. Sci. Comput._**
+  
 
 ## 2021
 
