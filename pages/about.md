@@ -125,8 +125,7 @@ My research interests are artificial intelligence and scientific computing.
   Hao Zhang, Ting-Zhu Huang, **Xi-Le Zhao**, Lu-Bin Cui, Michael K. Ng<br>
    **_J. Sci. Comput._**
 
-- Forecasting Sparse Movement Speed of Urban Road Networks with Nonstationary Temporal Matrix Factorization
-<br>
+- Forecasting Sparse Movement Speed of Urban Road Networks with Nonstationary Temporal Matrix Factorization<br>
   Xinyu Chen, Chengyuan Zhang, **Xi-Le Zhao**, Nicolas Saunier， Lijun Sun<br>
    **_Transportation Science_**
 
@@ -248,13 +247,38 @@ My research interests are artificial intelligence and scientific computing.
 
 ## 2020
 
-- **Yu-Bang Zheng**, Ting-Zhu Huang\*, Xi-Le Zhao\*, Tai-Xiang Jiang, Tian-Hui Ma, Teng-Yu Ji, \"Mixed Noise Removal in Hyperspectral Image via Low-Fibered-Rank Regularization\", _IEEE Transactions on Geoscience and Remote Sensing_, vol. 58, no. 1, pp. 734-749, 2020. [[Website]](https://ieeexplore.ieee.org/document/8854307) [[Code]](https://yubangzheng.github.io/codes/code_TGRS_low-fibered-rank.zip) (<span style="color:red">ESI Highly Cited Paper</span>)
+- Deep Plug-and-Play Prior for Low-Rank Tensor Completion<br>
+  **Xi-Le Zhao**, Wen-Hao Xu, Tai-Xiang Jiang, Yao Wang, Michael K. Ng<br>
+   **_Neurocomputing_** [[MATLAB Code]](https://github.com/TaiXiangJiang/Deep-Plug-and-Play-Prior-for-Low-Rank-Tensor-Completion)
 
-- **Yu-Bang Zheng**, Ting-Zhu Huang\*, Xi-Le Zhao\*, Yong Chen, Wei He, \"Double-Factor-Regularized Low-Rank Tensor Factorization for Mixed Noise Removal in Hyperspectral Image\", _IEEE Transactions on Geoscience and Remote Sensing_, vol. 58, no. 12, pp. 8450-8464, 2020. [[Website]](https://ieeexplore.ieee.org/document/9084248) [[Code]](https://yubangzheng.github.io/codes/code_LRTFDFR.zip) (<span style="color:red">2021渝科技学术大会优秀论文一等奖</span>)
+- Framelet Representation of Tensor Nuclear Norm for Third-Order Tensor Completion<br>
+  Tai-Xiang Jiang, Michael K. Ng, **Xi-Le Zhao**, Ting-Zhu Huang<br>
+   **_IEEE Trans. Image Process._** [[MATLAB Code]](https://github.com/TaiXiangJiang/Framelet-TNN)
 
-- **Yu-Bang Zheng**, Ting-Zhu Huang\*, Xi-Le Zhao\*, Tai-Xiang Jiang, Teng-Yu Ji, Tian-Hui Ma, \"Tensor N-tubal Rank and Its Convex Relaxation for Low-Rank Tensor Recovery\", _Information Sciences_, vol. 532, pp. 170-189, 2020. [[Website]](https://www.sciencedirect.com/science/article/pii/S0020025520303923) [[Code]](https://yubangzheng.github.io/codes/code_WSTNN.zip)
+- Mixed Noise Removal in Hyperspectral Image via Low-Fibered-Rank Regularization  <span style="color:blue">(ESI Highly Cited Paper)</span><br>
+  Yu-Bang Zheng, Ting-Zhu Huang, **Xi-Le Zhao**, Tai-Xiang Jiang, Tian-Hui Ma, Teng-Yu Ji<br>
+   **_IEEE Trans. Geosci. Remote Sens._** [[MATLAB Code]](https://github.com/zhaoxile/Mixed-Noise-Removal-in-Hyperspectral-Image-via-Low-Fibered-Rank-Regularization)
 
+- Double-Factor-Regularized Low-Rank Tensor Factorization for Mixed Noise Removal in Hyperspectral Image<br>
+  Yu-Bang Zheng, Ting-Zhu Huang, **Xi-Le Zhao**, Yong Chen, Wei He<br>
+   **_IEEE Trans. Geosci. Remote Sens._** [[MATLAB Code]](https://yubangzheng.github.io/codes/code_LRTFDFR.zip)
 
+- Spectrum Cartography via Coupled Block-Term Tensor Decomposition<br>
+  Guoyong Zhang, Xiao Fu, Jun Wang, **Xi-Le Zhao**, Mingyi Hong<br>
+   **_IEEE Trans. Signal Process._**
+
+- Multi-Dimensional Imaging Data Recovery via Minimizing the Partial Sum of Tubal Nuclear Norm<br>
+  Tai-Xiang Jiang, Ting-Zhu Huang, **Xi-Le Zhao**, Liang-Jian Deng<br>
+   **_J. Comput. Appl. Math._** [[MATLAB Code]](https://github.com/zhaoxile/Multi-dimensional-imaging-data-recovery-via-minimizing-the-partial-sum-of-tubal-nuclear-norm)
+
+- Tensor Factorization with Total Variation and Tikhonov Regularization for Low-Rank Tensor Completion in Imaging Data<br>
+  Xue-Lei Lin, Michael K. Ng, **Xi-Le Zhao**<br>
+   **_Journal of Mathematical Imaging and Vision_** [[MATLAB Code]](https://github.com/zhaoxile/Tensor-Factorization-with-Total-Variation-and-Tikhonov-Regularization-for-Low-Rank-Tensor-Completion)
+
+- Tensor N-Tubal Rank and Its Convex Relaxation for Low-Rank Tensor Recovery<br>
+  Yu-Bang Zheng, Ting-Zhu Huang, **Xi-Le Zhao**, Tai-Xiang Jiang, Teng-Yu Ji, Tian-Hui Ma<br>
+   **_Information Science_** [[MATLAB Code]](https://yubangzheng.github.io/codes/code_WSTNN.zip)
+    
 ## 2019
 
 - **Yu-Bang Zheng**, Ting-Zhu Huang\*, Teng-Yu Ji, Xi-Le Zhao\*, Tai-Xiang Jiang, Tian-Hui Ma, \"Low-Rank Tensor Completion via Smooth Matrix Factorization\", _Applied Mathematical Modelling_, vol. 70, pp. 677-695, 2019. [[Website]](https://www.sciencedirect.com/science/article/pii/S0307904X19300782) [[Code]](https://yubangzheng.github.io/codes/code_SMF-LRTC.zip)
