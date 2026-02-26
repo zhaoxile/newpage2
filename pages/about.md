@@ -27,7 +27,7 @@ From 2016 to 2017, I worked with [Prof. Jose M. Bioucas Dias](http://www.lx.it.p
 
 My research interests are artificial intelligence and scientific computing.
 
-📢 <span style="color:blue">**Self-motivated students are welcome to join my research group. Please feel free to contact me.**.</span>
+📢 <span style="color:blue">**Join Us: Self-motivated students are welcome to join my research group. Please feel free to contact me**.</span>
 
 📧 E-mail: <xlzhao122003@163.com>&emsp; 🎓 Google Scholar: [Full Publications (citations 9000+)](https://scholar.google.com/citations?user=88Zs8pAAAAAJ&hl=en)&emsp; 
 
