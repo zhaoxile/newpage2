@@ -31,7 +31,7 @@ My current interests include high-dimensional image processing, machine learning
 
 📢 <span style="color:blue">**Self-motivated students are welcome to join my research group. Please feel free to contact me.**.</span>
 
-📧 E-mail: <xlzhao122003@163.com>&emsp; 🎓 Google Scholar: [citations 9000+](https://scholar.google.com/citations?user=88Zs8pAAAAAJ&hl=en)&emsp; 
+📧 E-mail: <xlzhao122003@163.com>&emsp; 🎓 Google Scholar: [Full Publications (citations 9000+)](https://scholar.google.com/citations?user=88Zs8pAAAAAJ&hl=en)&emsp; 
 
 # 🔔 News
 
@@ -71,6 +71,38 @@ My current interests include high-dimensional image processing, machine learning
 
 # 📄 Publications 
 
+## Surveys
+
+- Continuous Representation Methods, Theories, and Applications: An Overview and Perspectives<br>
+  Yi-Si Luo, **Xi-Le Zhao**, De-Yu Meng<br>
+   **_ArXiv:2505.15222_**
+  
+- Tensor Network Decomposition for Data Recovery: Recent Advancements and Future Prospects<br>
+  Yu-Bang Zheng, **Xi-Le Zhao**, Heng-Chao Li, Chao Li, Ting-Zhu Huang, Qibin Zhao<br>
+   **_Neural Networks_**
+
+## 2026
+
+- Gaussian Splatting-based Low-rank Tensor Representation for Multi-Dimensional Image Recovery<br>
+  Yi-Ming Zeng, **Xi-Le Zhao**, Wei-Hao Wu, Teng-Yu Ji<br>
+   **_CVPR_**
+
+- Importance-Aware Nonlocal Tensor Nuclear Norm for High-Dimensional Image Recovery<br>
+  Ben-Zheng Li, **Xi-Le Zhao**, Hao Zhang, De-Lin Chu<br>
+   **_Inverse Problems_**
+
+- Topology-Induced Low-Rank Tensor Representation for Spatio-Temporal Traffic Data Imputation<br>
+  Zhi-Long Han, Ting-Zhu Huang, **Xi-Le Zhao**, Ben-Zheng Li, Meng Ding<br>
+   **_IEEE Trans. Knowledge Data Eng._**
+
+- Dictionary-Based Block Term Decomposition for Third-Order Tensors<br>
+  Ben-Zheng Li, **Xi-Le Zhao**, Hao Zhang, De-Lin Chu<br>
+   **_SIAM Journal on Imaging Sciences_**
+
+- A Unified Sentinel-2 Imagery Thick Cloud Removal and Rescaling Framework from A Continuous Perspective<br>
+  Wei-Hao Wu, Ting-Zhu Huang, **Xi-Le Zhao**, Xingwen Quan, Yu-Bang Zheng, Deyu Meng<br>
+   **_IEEE Trans. Geosci. Remote Sens._**
+  
 ## 2025
 
 - **Yu-Bang Zheng**, Jia-Le Ma, Heng-Chao Li\*, Zhi-Wei Shi, Qing Zhu, \"Bilateral Tensor Ring Decomposition for Thick Cloud Removal in Multitemporal Remote Sensing Images\", _IEEE Transactions on Geoscience and Remote Sensing_, vol. 63, art no. 5406215, pp. 1-15, 2025. [[Website]](https://ieeexplore.ieee.org/document/11123527) [[Code]](https://yubangzheng.github.io/codes/Code_BTR_CR.zip)
