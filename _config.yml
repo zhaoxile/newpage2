@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Yu-Bang Zheng (郑玉棒) | SWJTU"
+title                    : "Xi-Le Zhao  (赵熙乐) | UESTC"
 description              : "<br>"
-repository               : "yubangzheng/yubangzheng.github.io"
+repository               : "zhaoxile/newpage2"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,15 +21,15 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "<center>Yu-Bang Zheng</center> <center>(郑玉棒)</center>"
-  avatar           : "images/yubangzheng.jpg"
-  bio              : "<center>Associate Professor at Southwest Jiaotong University (SWJTU)<center>"
+  name             : "<center>Xi-Le Zhao</center> <center>(赵熙乐)</center>"
+  avatar           : "images/zxl.JPG"
+  bio              : "<center>Professor at University of Electronic Science and Technology of China (UESTC)<center>"
   location         : "Chengdu, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?hl=en&user=3KH22NkAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=88Zs8pAAAAAJ&hl=en"
   email            : 
-  researchgate     : "https://www.researchgate.net/profile/Yu-Bang-Zheng-2"
+  researchgate     : 
   url              : 
   bitbucket        :
   codepen          :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "yubangzheng"
+  github           : "zhaoxile"
   google_plus      :
   keybase          :
   instagram        :
