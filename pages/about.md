@@ -297,7 +297,54 @@ My research interests are artificial intelligence and scientific computing.
   Ming-Hui Cheng, Ting-Zhu Huang, **Xi-Le Zhao**, Tian-Hui Ma, Jie Huang<br>
    **_Applied Mathematical Modelling_**
 
+## 2018
 
+- Hyperspectral Image Restoration via Total Variation Regularized Low-Rank Tensor Decomposition  <span style="color:blue">(ESI Highly Cited Paper)</span><br>
+  Yao Wang, Jiangjun Peng, Qian Zhao, Yee Leung, **Xi-Le Zhao**, Deyu Meng<br>
+   **_IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing_** [[MATLAB Code]](https://github.com/zhaoxile/Hyperspectral-Image-Restoration-via-Total-Variation-Regularized-Low-rank-Tensor-Decomposition)
+
+- Matrix Factorization for Low-Rank Tensor Completion Using Framelet Prior<br>
+  Tai-Xiang Jiang, Ting-Zhu Huang, **Xi-Le Zhao**, Teng-Yu Ji, Liang-Jian Deng<br>
+   **_Information Sciences_**
+  
+## 2017
+
+- A Novel Tensor-Based Video Rain Streaks Removal Approach via Utilizing Discriminatively Intrinsic Priors<br>
+  Tai-Xiang Jiang, Ting-Zhu Huang, **Xi-Le Zhao**, Liang-Jian Deng, Yao Wang<br>
+   **_CVPR_** [[MATLAB Code]](https://github.com/zhaoxile/FastDeRain_-A-Novel-Video-Rain-Streak-Removal-Method-Using-Directional-Gradient-Priors)
+
+- A Non-Convex Tensor Rank Approximation for Tensor Completion<br>
+  Teng-Yu Ji, Ting-Zhu Huang, **Xi-Le Zhao**, Tian-Hui Ma, Liang-Jian Deng<br>
+   **_Applied Mathematical Modelling_** [[MATLAB Code]](https://github.com/zhaoxile/logTucker)
+
+## 2016
+
+- Tensor Completion Using Total Variation and Low-Rank Matrix Factorization<br>
+  Teng-Yu Ji, Ting-Zhu Huang, **Xi-Le Zhao**, Tian-Hui Ma, Gang Liu<br>
+   **_Information Sciences_** [[MATLAB Code]](https://github.com/zhaoxile/Tensor-completion-using-total-variation-and-low-rank-matrix-factorization)
+
+## 2015
+
+- Alternating Direction Method of Multipliers for Nonlinear Image Restoration Problems<br>
+  Chuan Chen, Michael K. Ng, **Xi-Le Zhao**<br>
+   **_IEEE Trans. Image Process._**
+
+## 2014
+
+- A New Convex Optimization Model for Multiplicative Noise and Blur Removal  <span style="color:blue">(ESI Highly Cited Paper)</span><br>
+  **Xi-Le Zhao**, Fan Wang, Michael K. Ng<br>
+   **_SIAM Journal on Imaging Sciences_** [[MATLAB Code]](https://github.com/zhaoxile/A-New-Convex-Optimization-Model-for-Multiplicative-Noise-and-Blur-Removal)
+
+## 2013
+
+- Total Variation Structured Total Least Squares Method for Image Restoration</span><br>
+  **Xi-Le Zhao**, Wei Wang, Tie-Yong Zeng, Ting-Zhu Huang, Michael K. Ng<br>
+   **_SIAM Journal on Scientific Computing_**
+
+- Deblurring and Sparse Unmixing for Hyperspectral Images</span><br>
+  **Xi-Le Zhao**, Fan Wang, Ting-Zhu Huang, Michael K. Ng, Robert J. Plemmons<br>
+   **_IEEE Trans. Geosci. Remote Sens._** [[MATLAB Code]](https://github.com/zhaoxile/Deblurring-and-sparse-unmixing-for-hyperspectral-images)
+    
 # 📖 Educations
 
 - *2021.03-2022.12*: Tensor Learning Team, RIKEN Center for Advanced Intelligence Project (AIP); Student trainee in Computer Science <br>
