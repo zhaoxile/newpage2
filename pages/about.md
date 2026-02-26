@@ -59,7 +59,25 @@ My research interests are artificial intelligence and scientific computing.
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/YuBangZheng/TSVD_ToolBox"><img src="/images/tnntoolbox.png" width="250"></a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/YisiLuo/LRTFR"><img src="/images/ConTensortoolbox.png" width="250"></a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/haozhangSWJTU/Irregular-Tensor-Toolbox"><img src="/images/irregulartools.png" width="250"></a>
-
+<ul style="list-style-type: disc; padding-left: 20px;">
+  <li>
+    <a href="https://github.com/zhaoxile/reproducible-tensor-completion-state-of-the-art">Tensor Decomposition</a>
+    <div style="display: flex; flex-wrap: wrap; gap: 20px; margin-top: 10px;">
+      <a href="https://github.com/YuBangZheng/TenNet_ToolBox">
+        <img src="/images/tennettoolbox.png" width="250" alt="TenNet ToolBox">
+      </a>
+      <a href="https://github.com/YuBangZheng/TSVD_ToolBox">
+        <img src="/images/tnnttoolbox.png" width="250" alt="TSVD ToolBox">
+      </a>
+      <a href="https://github.com/YisiLuo/LRTFR">
+        <img src="/images/ConTensortoolbox.png" width="250" alt="ConTensor ToolBox">
+      </a>
+      <a href="https://github.com/haozhangSWJTU/Irregular-Tensor-Toolbox">
+        <img src="/images/irregulartools.png" width="250" alt="Irregular Tensor ToolBox">
+      </a>
+    </div>
+  </li>
+</ul>
 # 📄 Publications 
 
 ## Surveys
