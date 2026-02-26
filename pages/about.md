@@ -281,13 +281,21 @@ My research interests are artificial intelligence and scientific computing.
     
 ## 2019
 
-- **Yu-Bang Zheng**, Ting-Zhu Huang\*, Teng-Yu Ji, Xi-Le Zhao\*, Tai-Xiang Jiang, Tian-Hui Ma, \"Low-Rank Tensor Completion via Smooth Matrix Factorization\", _Applied Mathematical Modelling_, vol. 70, pp. 677-695, 2019. [[Website]](https://www.sciencedirect.com/science/article/pii/S0307904X19300782) [[Code]](https://yubangzheng.github.io/codes/code_SMF-LRTC.zip)
+- FastDeRain: A Novel Video Rain Streak Removal Method Using Directional Gradient Priors<br>
+  Tai-Xiang Jiang, Ting-Zhu Huang, **Xi-Le Zhao**, Liang-Jian Deng,Yao Wang<br>
+   **_IEEE Trans. Image Process._** [[MATLAB Code]](https://github.com/zhaoxile/FastDeRain_-A-Novel-Video-Rain-Streak-Removal-Method-Using-Directional-Gradient-Priors)
 
-- **Yu-Bang Zheng**, Ting-Zhu Huang\*, Xi-Le Zhao\*, Tai-Xiang Jiang, Jie Huang, \"Hyperspectral Image Denoising via Convex Low-Fibered-Rank Regularization\", in _IEEE International Geoscience and Remote Sensing Symposium (IGARSS)_, 2019, pp. 222-225. (**Oral**) [[Website]](https://ieeexplore.ieee.org/document/8900157) [[Slide]](https://yubangzheng.github.io/papers/Oral_IGARSS2019_ybz.pdf) [[Code]](https://yubangzheng.github.io/codes/code_TGRS_low-fibered-rank.zip)
+- Low-Rank Tensor Completion Using Matrix Factorization Based on Tensor Train Rank and Total Variation<br>
+  Meng Ding, Ting-Zhu Huang，Teng-Yu Ji，**Xi-Le Zhao**, Jing-Hua Yang<br>
+   **_J. Sci. Comput._** [[MATLAB Code]](https://github.com/zhaoxile/Low-Rank-Tensor-Completion-Using-Matrix-Factorization-Based-on-Tensor-Train-Rank-and-Total-Variation)
 
-- Xiao-Tong Li, Xi-Le Zhao\*, Tai-Xiang Jiang, **Yu-Bang Zheng**, Teng-Yu Ji, Ting-Zhu Huang, \"Low-Rank Tensor Completion via Combined Non-local Self-Similarity and Low-Rank Regularization\", _Neurocomputing_, vol. 367, pp. 1-12, 2019. [[Website]](https://www.sciencedirect.com/science/article/abs/pii/S0925231219311099)
+- Low-Rank Tensor Completion via Smooth Matrix Factorization<br>
+  Yu-Bang Zheng, Ting-Zhu Huang, Teng-Yu Ji, **Xi-Le Zhao**, Tai-Xiang Jiang, Tian-Hui Ma<br>
+   **_Applied Mathematical Modelling_** [[MATLAB Code]](https://github.com/zhaoxile/Low-rank-tensor-completion-via-smooth-matrix-factorization)
 
-- Jian-Li Wang, Ting-Zhu Huang\*, Xi-Le Zhao\*, Jie Huang, Tian-Hui Ma, **Yu-Bang Zheng**, \"Reweighted Block Sparsity Regularization for Remote Sensing Images Destriping\", _IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing_, vol. 12, no. 12, pp. 4951-4963, 2019. [[Website]](https://ieeexplore.ieee.org/abstract/document/8855071) [[Code]](https://yubangzheng.github.io/codes/code_RBSUTV.zip)
+- A Variational Model with Hybrid Hyper-Laplacian Priors for Retinex<br>
+  Ming-Hui Cheng, Ting-Zhu Huang, **Xi-Le Zhao**, Tian-Hui Ma, Jie Huang<br>
+   **_Applied Mathematical Modelling_**
 
 
 # 📖 Educations
