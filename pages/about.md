@@ -12,7 +12,6 @@ author_profile: true
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
-<span class='anchor' id='about-me'></span>
 
 I am a [Professor](http://www.math.uestc.edu.cn/info/1081/2025.htm) in the School of Mathematical Science at [University of Electronic Science and Technology of China (UESTC)](https://www.uestc.edu.cn/).
 
