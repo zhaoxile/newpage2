@@ -2,16 +2,16 @@
 main:
   
   - title: "Selected Publications"
-    url: "https://github.com/zhaoxile/newpage2/newpage2/publications/"
+    url: "https://github.com/zhaoxile/newpage2/publications/"
     
   - title: "Group"
-    url: "https://github.com/zhaoxile/newpage2/newpage2/group/"
+    url: "https://github.com/zhaoxile/newpage2/group/"
     
   - title: "Teaching"
-    url: "https://github.com/zhaoxile/newpage2/newpage2/teaching/"
+    url: "https://github.com/zhaoxile/newpage2/teaching/"
     
   - title: "Fundings"
-    url: "https://github.com/zhaoxile/newpage2/newpage2/fundings/"
+    url: "https://github.com/zhaoxile/newpage2/fundings/"
 
   - title: "Academic Activities"
-    url: "https://github.com/zhaoxile/newpage2/newpage2/academic-activities/"
+    url: "https://github.com/zhaoxile/newpage2/academic-activities/"
