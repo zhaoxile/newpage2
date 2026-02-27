@@ -2,8 +2,6 @@
 title: ""
 permalink: /publications/
 layout: default
-excerpt: ""           
-author_profile: true  
 ---
 
 # 📄 Selected Publications
