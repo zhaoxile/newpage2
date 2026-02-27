@@ -438,8 +438,9 @@ My research interests are artificial intelligence and scientific computing.
 - The Hundred-Talent Program of University of Electronic Science and Technology of China
 <!-- 空一行，再写 script -->
 <!-- 访问量地图脚本 -->
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=280&t=tt&d=q42AWpXg8o1ihfMjBGE2spzYkI7CTpIm16KpWAUdnT0'></script>
-
+<div style="margin-top: 40px; margin-bottom: 15px; text-align: center;">
+  <script type="text/javascript" src="//rf.revolvermaps.com/0/0/8.js?i=5walv8lpuh8&amp;m=0&amp;c=ff0000&amp;cr1=ffffff&amp;f=arial&amp;l=33" async="async"></script>
+</div>
 <!-- 最后更新时间（自动获取） -->
 <p class="auto-style7"  align="center"><font size="4" face="Arial">
   <span id="lastModified"></span>
