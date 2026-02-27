@@ -1,19 +1,17 @@
 # main links links
 main:
-  - title: "Home"
-    url: "https://github.com/zhaoxile/newpage2/newpage2/# about-me"
   
   - title: "Selected Publications"
-    url: "/publications/"
+    url: "https://github.com/zhaoxile/newpage2/newpage2/publications/"
     
   - title: "Group"
-    url: "/group/"
+    url: "https://github.com/zhaoxile/newpage2/newpage2/group/"
     
   - title: "Teaching"
-    url: "/teaching/"
+    url: "https://github.com/zhaoxile/newpage2/newpage2/teaching/"
     
   - title: "Fundings"
-    url: "/fundings/"
+    url: "https://github.com/zhaoxile/newpage2/newpage2/fundings/"
 
   - title: "Academic Activities"
-    url: "/academic-activities"
+    url: "https://github.com/zhaoxile/newpage2/newpage2/academic-activities"
