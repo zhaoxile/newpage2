@@ -29,7 +29,7 @@ My research interests are artificial intelligence and scientific computing.
 
 📢 <span style="color:blue">**Join Us: Self-motivated students are welcome to join my research group. Please feel free to contact me**.</span>
 
-📧 E-mail: <xlzhao122003@163.com>&emsp; 🏫 [学校主页](https://faculty.uestc.edu.cn/zhaoxile/zh_CN/index.htm)
+🎓 Google Scholar: [Full Publications (9,000+ citations)](https://scholar.google.com/citations?user=88Zs8pAAAAAJ&hl=en); 🏫 [学校主页](https://faculty.uestc.edu.cn/zhaoxile/zh_CN/index.htm)
 
 # 🔔 News
 
