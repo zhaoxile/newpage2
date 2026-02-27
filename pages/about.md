@@ -431,16 +431,6 @@ My research interests are artificial intelligence and scientific computing.
 - Pattern Recognition
 - Information Science
 - Knowledge-Based Systems
-
-# 🏆 Awards
- 
-- Stanford University World's Top 2% Scientists (2021, 2022 and 2023)
-- The First Prize of Science and Technology Progress Award of Sichuan Province (2013 and 2015)
-- The Second Prize in the Contest of Outstanding Young Essay awarded by Chinese Computational Mathematics Society
-- The backup candidate for the Academic and Technological Leader Program of Sichuan Province
-- The First Prize of Outstanding Essay for Sichuan and Chongqing Science and Technology Conference Award of Sichuan and Chongqing Association for Science and Technology (2020 and 2021)
-- The Second Prize of Applied Mathematics Award of Sichuan Mathematics Society
-- The Hundred-Talent Program of University of Electronic Science and Technology of China
   
 <!-- 空一行，再写 script -->
 <!-- 访问量地图脚本 -->
