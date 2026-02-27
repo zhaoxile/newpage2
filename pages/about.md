@@ -55,12 +55,6 @@ My research interests are artificial intelligence and scientific computing.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/haozhangSWJTU/Irregular-Tensor-Toolbox"><img src="/newpage2/images/irregulartools.png" width="250"></a>
 
-# 💾 Fundings
-
-- National Natural Science Foundation of China (国家自然科学基金面上项目, NSFC 12371456), 2024-2027
-- National Natural Science Foundation of China (国家自然科学基金面上项目, NSFC 61876203), 2019-2022
-- National Natural Science Foundation of China (国家自然科学基金青年项目, NSFC 61402082), 2015-2017
-
 # 🌐 Academic Activities
 
 ## Jury member for PhD thesis defense (Skoltech, supervised by Professor Andrzej Cichocki)
