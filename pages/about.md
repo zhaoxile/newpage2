@@ -77,17 +77,14 @@ My research interests are artificial intelligence and scientific computing.
 
 ## 2026
 
-#&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/newpage2/images/guass.png" width="350" style="vertical-align: middle; margin-right: 20px;">
 - Gaussian Splatting-based Low-rank Tensor Representation for Multi-Dimensional Image Recovery<br>
   Yi-Ming Zeng, **Xi-Le Zhao**, Wei-Hao Wu, Teng-Yu Ji<br>
    **_CVPR_**
   
-#&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/newpage2/images/ntnn.png" width="350" style="vertical-align: middle; margin-right: 20px;">
 - Importance-Aware Nonlocal Tensor Nuclear Norm for High-Dimensional Image Recovery<br>
   Ben-Zheng Li, **Xi-Le Zhao**, Hao Zhang, De-Lin Chu<br>
    **_Inverse Problems_**
   
-#&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/newpage2/images/ntnn.png" width="350" style="vertical-align: middle; margin-right: 20px;">
 - Topology-Induced Low-Rank Tensor Representation for Spatio-Temporal Traffic Data Imputation<br>
   Zhi-Long Han, Ting-Zhu Huang, **Xi-Le Zhao**, Ben-Zheng Li, Meng Ding<br>
    **_IEEE Trans. Knowledge Data Eng._**
