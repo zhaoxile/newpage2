@@ -53,8 +53,6 @@ My research interests are artificial intelligence and scientific computing.
 
 # 🧰 Tensor Jungles
 
--  [Tensor Decomposition](https://github.com/zhaoxile/reproducible-tensor-completion-state-of-the-art)
-
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/YuBangZheng/TenNet_ToolBox"><img src="/newpage2/images/tennettoolbox.png" width="250"></a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/YuBangZheng/TSVD_ToolBox"><img src="/newpage2/images/tnntoolbox.png" width="250"></a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/YisiLuo/LRTFR"><img src="/newpage2/images/ConTensortoolbox.png" width="250"></a><br>
@@ -77,22 +75,27 @@ My research interests are artificial intelligence and scientific computing.
 
 ## 2026
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/newpage2/images/guass.png" width="350">
 - Gaussian Splatting-based Low-rank Tensor Representation for Multi-Dimensional Image Recovery<br>
   Yi-Ming Zeng, **Xi-Le Zhao**, Wei-Hao Wu, Teng-Yu Ji<br>
    **_CVPR_**
-  
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/newpage2/images/ntnn.png" width="350">
 - Importance-Aware Nonlocal Tensor Nuclear Norm for High-Dimensional Image Recovery<br>
   Ben-Zheng Li, **Xi-Le Zhao**, Hao Zhang, De-Lin Chu<br>
    **_Inverse Problems_**
-  
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/newpage2/images/tilr-cr.png" width="350">
 - Topology-Induced Low-Rank Tensor Representation for Spatio-Temporal Traffic Data Imputation<br>
   Zhi-Long Han, Ting-Zhu Huang, **Xi-Le Zhao**, Ben-Zheng Li, Meng Ding<br>
    **_IEEE Trans. Knowledge Data Eng._**
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/newpage2/images/dbtd.png" width="350">
 - Dictionary-Based Block Term Decomposition for Third-Order Tensors<br>
   Ben-Zheng Li, **Xi-Le Zhao**, Hao Zhang, De-Lin Chu<br>
    **_SIAM Journal on Imaging Sciences_**
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/newpage2/images/dbtd.png" width="350">
 - A Unified Sentinel-2 Imagery Thick Cloud Removal and Rescaling Framework from A Continuous Perspective<br>
   Wei-Hao Wu, Ting-Zhu Huang, **Xi-Le Zhao**, Xingwen Quan, Yu-Bang Zheng, Deyu Meng<br>
    **_IEEE Trans. Geosci. Remote Sens._**
