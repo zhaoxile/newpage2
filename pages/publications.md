@@ -1,11 +1,11 @@
 ---
-title: "Selected Publications"
+title: ""
 permalink: /publications/
 layout: default
 excerpt: ""           
 author_profile: true  
 ---
-<span class='anchor' id='about-me'></span>
+<span class='anchor' id='publications'></span>
 # 📄 Selected Publications
 
 ## Surveys
