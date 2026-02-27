@@ -54,22 +54,6 @@ My research interests are artificial intelligence and scientific computing.
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/YisiLuo/LRTFR"><img src="/newpage2/images/ConTensortoolbox.png" width="250"></a><br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/haozhangSWJTU/Irregular-Tensor-Toolbox"><img src="/newpage2/images/irregulartools.png" width="250"></a>
-  
-# 📖 Teaching
-
-## 数值分析(研究生课程)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/newpage2/images/nab.png" width="250">
-[[Chap. 1]](https://zhaoxile.github.io/paper/1.pdf)  [[Chap. 2]](https://zhaoxile.github.io/paper/2.pdf)
-
-## 数字图像处理(本科挑战性学习课程)
-
-### 数字图像处理课程成果展示
-- 李晓彤 (北京大学博士, “挑战杯”四川省大学生课外学术科技作品竞赛二等奖、Neurocomputing)   
-- 罗倚斯 (西安交通大学博士, IEEE Trans. Image Process.、 CVPR) [成电新闻](https://news.uestc.edu.cn/?n=UestcNews.Front.DocumentV2.ArticlePage&Id=85568) 
-- 苗雨春 (武汉大学博士, IEEE Trans. Comput. Imaging、 IEEE Trans. Geosci. Remote Sens.) [成电新闻](https://www.news.uestc.edu.cn/?n=UestcNews.Front.DocumentV2.ArticlePage&Id=81593) 
-- 唐晓乐 (西安交通大学博士, CVPR) [成电新闻](https://news.uestc.edu.cn/?n=UestcNews.Front.DocumentV2.ArticlePage&Id=85568) 
-- 庄俊豪 (清华深圳研究院, ACM MM) [成电新闻](https://news.uestc.edu.cn/?n=UestcNews.Front.DocumentV2.ArticlePage&Id=85980)  
-- 李佳艺 (科大在读本科, ECCV)
 
 # 💾 Fundings
 
