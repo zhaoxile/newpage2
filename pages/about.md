@@ -65,7 +65,8 @@ My research interests are artificial intelligence and scientific computing.
 
 ## Surveys
 
-- Continuous Representation Methods, Theories, and Applications: An Overview and Perspectives<br>
+- <img src="/newpage2/images/irregulartools.png" width="250">
+  Continuous Representation Methods, Theories, and Applications: An Overview and Perspectives<br>
   Yi-Si Luo, **Xi-Le Zhao**, De-Yu Meng<br>
    **_ArXiv:2505.15222_**
   
@@ -370,7 +371,7 @@ My research interests are artificial intelligence and scientific computing.
 # 📖 Teaching
 
 ## 数值分析(研究生课程)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/YuBangZheng/TenNet_ToolBox"><img src="/newpage2/images/nab.png" width="250"></a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/newpage2/images/nab.png" width="250">
 [[Chap. 1]](https://zhaoxile.github.io/paper/1.pdf)  [[Chap. 2]](https://zhaoxile.github.io/paper/2.pdf)
 
 ## 数字图像处理(本科挑战性学习课程)
