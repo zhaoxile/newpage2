@@ -426,7 +426,7 @@ My research interests are artificial intelligence and scientific computing.
 - Pattern Recognition
 - Information Science
 - Knowledge-Based Systems
-  
+
  # 🏆 Awards
  
 - Stanford University World's Top 2% Scientists (2021, 2022 and 2023)
@@ -438,10 +438,14 @@ My research interests are artificial intelligence and scientific computing.
 - The Hundred-Talent Program of University of Electronic Science and Technology of China
 <!-- 空一行，再写 script -->
 <!-- 访问量地图脚本 -->
-last_modified_at: 2026-02-21T12:00:00+08:00
-<div style="text-align: center; margin: 40px auto; max-width: 800px;">
-  <script type="text/javascript" src="//rf.revolvermaps.com/0/0/8.js?i=5walv8lpuh8&amp;m=0&amp;c=ff0000&amp;cr1=ffffff&amp;f=arial&amp;l=33" async="async"></script>
-  <p style="font-size: 1.5em; color: #333; margin-top: 15px; font-weight: 500;">
-    Last update: {{ page.last_modified_at | date: "%m/%d/%Y" }}
-  </p>
-</div>
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=280&t=tt&d=q42AWpXg8o1ihfMjBGE2spzYkI7CTpIm16KpWAUdnT0'></script>
+
+<!-- 最后更新时间（自动获取） -->
+<p class="auto-style7"  align="center"><font size="4" face="Arial">
+  <span id="lastModified"></span>
+</font></p>
+<script type="text/javascript">
+  var lastMod = new Date(document.lastModified);
+  var formattedDate = lastMod.getFullYear() + "-" + (lastMod.getMonth() + 1) + "-" + lastMod.getDate();
+  document.getElementById("lastModified").innerText = "Last Updated: " + formattedDate;
+</script>
