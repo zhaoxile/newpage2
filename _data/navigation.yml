@@ -1,6 +1,8 @@
 # main links links
 main:
-
+  - title: "Home"
+    url: "https://github.com/zhaoxile/newpage2/newpage2/# about-me"
+  
   - title: "Selected Publications"
     url: "/publications/"
     
