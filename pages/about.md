@@ -436,6 +436,7 @@ My research interests are artificial intelligence and scientific computing.
 - The First Prize of Outstanding Essay for Sichuan and Chongqing Science and Technology Conference Award of Sichuan and Chongqing Association for Science and Technology (2020 and 2021)
 - The Second Prize of Applied Mathematics Award of Sichuan Mathematics Society
 - The Hundred-Talent Program of University of Electronic Science and Technology of China
+  
 <!-- 空一行，再写 script -->
 <!-- 访问量地图脚本 -->
 
