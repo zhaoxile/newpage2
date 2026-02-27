@@ -65,18 +65,11 @@ My research interests are artificial intelligence and scientific computing.
 
 ## Surveys
 
-- <img src="/newpage2/images/irregulartools.png" width="250">
+- <img src="/newpage2/images/continous-survey.png" width="250"><br>
   Continuous Representation Methods, Theories, and Applications: An Overview and Perspectives<br>
   Yi-Si Luo, **Xi-Le Zhao**, De-Yu Meng<br>
    **_ArXiv:2505.15222_**
-- - <div style="display: flex; align-items: flex-start; gap: 20px;">
-    <img src="/newpage2/images/irregulartools.png" width="250" style="flex-shrink: 0;">
-    <div>
-      Continuous Representation Methods, Theories, and Applications: An Overview and Perspectives<br>
-      Yi-Si Luo, **Xi-Le Zhao**, De-Yu Meng<br>
-      **_ArXiv:2505.15222_**
-    </div>
-  </div>
+
 - Tensor Network Decomposition for Data Recovery: Recent Advancements and Future Prospects<br>
   Yu-Bang Zheng, **Xi-Le Zhao**, Heng-Chao Li, Chao Li, Ting-Zhu Huang, Qibin Zhao<br>
    **_Neural Networks_**
