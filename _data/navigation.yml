@@ -2,7 +2,7 @@
 main:
   
   - title: "Selected Publications"
-    url: "https://github.com/zhaoxile/newpage2/#-publications"
+    url: "/newpage2/publications/"
     
   - title: "Group"
     url: "https://github.com/zhaoxile/newpage2/#-group"
